@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""A MagicClass matching exactly a
+bytecode provided by Holberton.
+
+"""
+
 import math
 
 
