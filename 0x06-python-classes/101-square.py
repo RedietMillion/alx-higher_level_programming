@@ -1,5 +1,15 @@
 #!/usr/bin/python3
+"""Write a class Square that defines a square by:
+(based on 5-square.py)
+"""
+
+
 class Square:
+    """Square class with a private attribute -
+    size.
+
+    """
+
     def __init__(self, size=0, position=(0, 0)):
         """Initializes the size variable as a private
         instance artribute
