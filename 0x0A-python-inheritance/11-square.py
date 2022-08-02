@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
-
-"""inherits from Rectangle (9-rectangle.py).
+"""inherits from Rectangle).
 (task based on 10-square.py
 
 """
